@@ -9,7 +9,7 @@ enableGitInfo = true
 [Params.Sidebar]
 compact = true
 emoji = "🍥"
-avatar.src = "img/-10cea75c8649c74.jpg"
+avatar.src = "img/1.png"
 [Params.Footer]
 since = 2025
 customText = ""
