@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2025-06-13T11:06:51+08:00</lastmod>
-  </url><url>
-    <loc>https://example.org/post/hello-world/</loc>
-    <lastmod>2025-06-13T11:06:51+08:00</lastmod>
-  </url><url>
-    <loc>https://example.org/post/</loc>
-    <lastmod>2025-06-13T11:06:51+08:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://dilokomi.moe/</loc><lastmod>2025-06-13T12:21:11+08:00</lastmod></url><url><loc>https://dilokomi.moe/post/hello-world/</loc><lastmod>2025-06-13T12:21:11+08:00</lastmod></url><url><loc>https://dilokomi.moe/post/</loc><lastmod>2025-06-13T12:21:11+08:00</lastmod></url><url><loc>https://dilokomi.moe/categories/</loc></url><url><loc>https://dilokomi.moe/tags/</loc></url></urlset>
