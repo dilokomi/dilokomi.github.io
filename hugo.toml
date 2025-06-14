@@ -17,6 +17,7 @@ customText = ""
 license.enabled = true
 license.default = "Licensed under CC BY 4.0"
 [Params.Comments]
+enabled = true
 provider = "utterances"
 [Params.Comments.utterances]
 repo = "dilokomi/dilokomi.github.io"
