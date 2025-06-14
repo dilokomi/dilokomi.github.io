@@ -1,4 +1,5 @@
 baseURL = 'https://dilokomi.moe'
+languageCode = 'zh-CN'
 DefaultContentLanguage = 'zh-cn'
 title = 'dilokomi的垃圾桶'
 theme = 'hugo-theme-stack'
