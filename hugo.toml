@@ -18,15 +18,6 @@ license.enabled = true
 license.default = "Licensed under CC BY 4.0"
 [Params.Comments]
 enabled = true
-provider  = "giscus"
-[Params.Comments.Giscus]
+provider = "utterances"
+[Params.Comments.utterances]
 repo = "dilokomi/dilokomi.github.io"
-repoID = "R_kgDONYvflw"
-category = "Announcements"
-categoryID = "DIC_kwDONYvfl84Crb0Y"
-mapping = "pathname"
-strict = "1"
-reactionsEnabled = "1"
-emitMetadata = "0"
-inputPosition = "top"
-lang = "zh-CN"
