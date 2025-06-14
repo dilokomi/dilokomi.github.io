@@ -1,6 +1,8 @@
 +++
 date = '2025-06-14T08:52:05+08:00'
 title = '船新的音频系统PipeWire'
+categories = ["linux"]
+tags = ["archlinux", "PipeWire"]
 +++
 
 使用船新的音频系统PipeWire

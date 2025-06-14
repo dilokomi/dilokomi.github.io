@@ -7,9 +7,9 @@ enableEmoji = true
 hasCJKLanguage = true
 enableGitInfo = true
 [Params.Sidebar]
-compact = true
 emoji = "🍥"
 avatar.src = "img/1.png"
+subtitle = "我很可爱请给我钱"
 [Params.Footer]
 since = 2025
 customText = ""
@@ -21,3 +21,18 @@ enabled = true
 provider = "utterances"
 [Params.Comments.utterances]
 repo = "dilokomi/dilokomi.github.io"
+[Params.widgets]
+
+[[Params.widgets.homepage]]
+type = "search"
+[[Params.widgets.homepage]]
+type = "archives"
+limit = 10
+[[Params.widgets.homepage]]
+type = "categories"
+limit = 20
+[[Params.widgets.homepage]]
+type = "tag-cloud"
+limit = 20
+[[Params.widgets.page]]
+type = "toc"
